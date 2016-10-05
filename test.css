@@ -1,0 +1,28 @@
+body{
+
+}
+.container-fluid{
+height: 1270px;
+}
+#righ{
+    height: 100px;
+    background-color: #737373;
+
+  border: 1px solid #FFF;
+}
+#big{
+  height: 100px;
+  background-color: orange;
+}
+#left{
+    height: 100px;
+  background-color: #cccccc;
+  border: 1px solid #FFF;
+}
+#gray{
+  height: auto;
+  background-color:#595959 ;
+}
+.medile{
+  margin-top: 70%;
+}
